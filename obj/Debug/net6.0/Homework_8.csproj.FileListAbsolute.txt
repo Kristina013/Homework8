@@ -1,0 +1,15 @@
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/bin/Debug/net6.0/Homework_8
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/bin/Debug/net6.0/Homework_8.deps.json
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/bin/Debug/net6.0/Homework_8.runtimeconfig.json
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/bin/Debug/net6.0/Homework_8.dll
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/bin/Debug/net6.0/Homework_8.pdb
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/obj/Debug/net6.0/Homework_8.csproj.AssemblyReference.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/obj/Debug/net6.0/Homework_8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/obj/Debug/net6.0/Homework_8.AssemblyInfoInputs.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/obj/Debug/net6.0/Homework_8.AssemblyInfo.cs
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/obj/Debug/net6.0/Homework_8.csproj.CoreCompileInputs.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/obj/Debug/net6.0/Homework_8.dll
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/obj/Debug/net6.0/refint/Homework_8.dll
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/obj/Debug/net6.0/Homework_8.pdb
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/obj/Debug/net6.0/Homework_8.genruntimeconfig.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/8/Homework8/Homework_8/obj/Debug/net6.0/ref/Homework_8.dll
